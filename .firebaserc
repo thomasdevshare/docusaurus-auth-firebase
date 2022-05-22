@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "docusaurus-auth-862e3",
+    "dev": "docusaurus-auth-862e3"
+  },
+  "targets": {}
+}
